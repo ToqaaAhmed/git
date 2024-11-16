@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziada\\source\\repos\\Faculity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\application.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\application.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|c:\\users\\ziada\\source\\repos\\faculity\\faculity\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA95F00-9106-4C64-9801-BA29AD137B5B}|Faculity\\Faculity.csproj|solutionrelative:faculity\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Faculity\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Model1.Context.cs",
+              "RelativeToolTip": "Faculity\\Model1.Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:16:45.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Application.xaml.cs",
+              "RelativeDocumentMoniker": "Faculity\\Application.xaml.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Application.xaml.cs",
+              "RelativeToolTip": "Faculity\\Application.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:50:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Faculity\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Admin.xaml.cs",
+              "RelativeToolTip": "Faculity\\Admin.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:48:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUP.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\SignUP.xaml.cs",
+              "RelativeDocumentMoniker": "Faculity\\SignUP.xaml.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\SignUP.xaml.cs",
+              "RelativeToolTip": "Faculity\\SignUP.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "Faculity\\LogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\LogIn.xaml.cs",
+              "RelativeToolTip": "Faculity\\LogIn.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIAwwD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:36:33.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\LogIn.xaml",
+              "RelativeDocumentMoniker": "Faculity\\LogIn.xaml",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\LogIn.xaml",
+              "RelativeToolTip": "Faculity\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:19:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Model1.edmx",
+              "RelativeDocumentMoniker": "Faculity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Faculity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-11T16:15:12.071Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Admin.xaml",
+              "RelativeDocumentMoniker": "Faculity\\Admin.xaml",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Admin.xaml",
+              "RelativeToolTip": "Faculity\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:07:12.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUP.xaml",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\SignUP.xaml",
+              "RelativeDocumentMoniker": "Faculity\\SignUP.xaml",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\SignUP.xaml",
+              "RelativeToolTip": "Faculity\\SignUP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:06:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.xaml",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Application.xaml",
+              "RelativeDocumentMoniker": "Faculity\\Application.xaml",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\Application.xaml",
+              "RelativeToolTip": "Faculity\\Application.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:06:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Faculity\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\MainWindow.xaml",
+              "RelativeToolTip": "Faculity\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:05:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Faculity\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ziada\\source\\repos\\Faculity\\Faculity\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Faculity\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:05:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
