@@ -26,7 +26,8 @@
         <TextBox x:Name="EmailTXT" Grid.Row="1" Grid.Column="1" Height="50" Width="200" HorizontalAlignment="Left" FontSize="25" FontFamily="Arial Rounded MT Bold" />
         <TextBox x:Name="pwTXT" Grid.Row="2" Grid.Column="1" Height="50" Width="200" HorizontalAlignment="Left" FontSize="25" FontFamily="Arial Rounded MT Bold" />
 
-        <Button x:Name="LoginBTN" Content="Login" Grid.Column="0" Grid.Row="3" Height="50" Width="150" FontSize="20" FontFamily="Arial Rounded MT Bold" Click="LoginBTN_Click" />
+        <Button x:Name="LoginBTN" Content="continue
+" Grid.Column="0" Grid.Row="3" Height="50" Width="150" FontSize="20" FontFamily="Arial Rounded MT Bold" Click="LoginBTN_Click" />
         <Button x:Name="SignupBTN" Content="SignUp" Grid.Column="1" Grid.Row="3" Height="50" Width="150" FontSize="20" FontFamily="Arial Rounded MT Bold" Click="SignupBTN_Click" />
 
     </Grid>
